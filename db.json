@@ -7,6 +7,12 @@
     "body": "World"
     }
   ],
+  "imagea": [
+    {
+    "id": 1,
+    "url": "https://via.placeholder.com/150/771796"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
